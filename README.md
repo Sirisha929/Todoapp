@@ -32,5 +32,6 @@ I wrote custom styles in style.css to give the app a dark theme. I styled the in
 I installed dependencies and ran the app locally
 I created a virtual environment, installed Flask using requirements.txt, and started the app with python app.py. I tested it on http://127.0.0.1:5000 and confirmed all features work: add, edit, delete, and view tasks. 
 
-output:
+output:![Image](https://github.com/user-attachments/assets/1a3dca45-e9e2-44a3-9d0a-7f24eeaebe68)
+
 
