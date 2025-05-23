@@ -34,4 +34,6 @@ I created a virtual environment, installed Flask using requirements.txt, and sta
 
 output:![Image](https://github.com/user-attachments/assets/1a3dca45-e9e2-44a3-9d0a-7f24eeaebe68)
 
+![Image](https://github.com/user-attachments/assets/6c0507af-c979-4001-826b-bcb89ef54dd5)
+
 
