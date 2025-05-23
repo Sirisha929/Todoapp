@@ -3,10 +3,6 @@ A simple and user-friendly Task Manager web application built with Python (Flask
 Steps I have followed for Creating this Project:
 I created the project structure
 I organized the project into folders and files using the following structure:
-
-cpp
-Copy
-Edit
 todo-app/
 ├── app.py
 ├── requirements.txt
